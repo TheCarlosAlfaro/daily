@@ -1,6 +1,6 @@
 # Daily
 
-Daily is a time tracking app for freelancers.
+Daily is a time tracking app and invoice generator for freelancers.
 
 ## ToDo
 
